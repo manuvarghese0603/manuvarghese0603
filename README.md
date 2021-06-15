@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/Hi.gif" width="25">, I'm Manu 👋
+### Hi there <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/Hi.gif" width="25">, I'm Manu.
 
 - 🌱 I’m currently learning Computer Vision
 - 👀 I’m interested in DS Algo and Computer Vision
