@@ -22,6 +22,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/manuvarghese0603/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/manuvarghese0603/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Arduino" width="26px" src="https://github.com/manuvarghese0603/devicon/blob/master/icons/arduino/arduino-original.svg" />
 
 <br />
 <br />
