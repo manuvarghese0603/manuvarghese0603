@@ -1,4 +1,4 @@
-### Hi there, I'm Manu 👋
+### Hi there <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/Hi.gif" width="25">, I'm Manu 👋
 
 - 🌱 I’m currently learning Computer Vision
 - 👀 I’m interested in DS Algo and Computer Vision
@@ -6,11 +6,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:  manuvarghese0603@gmail.com
 
-### Connect with me:
+### 📱 Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="https://www.linkedin.com/in/manu-varghese-/"><img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/linkedin.gif" width="35" height = "30" hspace="15"></a>
+<a href ="https://www.instagram.com/_manu._.varghese_/"> <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
 <br />
 
 ### Languages and Tools:
