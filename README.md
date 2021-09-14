@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/Hi.gif" width="25">, I'm Manu.
 
-- 🌱 I’m currently learning Computer Vision
-- 👀 I’m interested in DS Algo and Computer Vision
+- 🌱 I’m currently learning Web Development and ML
+- 👀 I’m interested in DS Algo and ML and Web Dev
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:  manuvarghese0603@gmail.com
