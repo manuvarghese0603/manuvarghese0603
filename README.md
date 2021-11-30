@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/manu-varghese-/"><img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/linkedin.gif" width="35" height = "30" hspace="15"></a>
-<a href ="https://www.instagram.com/_manu._.varghese_/"> <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
+<a href ="https://www.instagram.com/manuvarghe5e/"> <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
 <br />
 
 ### Languages and Tools:
