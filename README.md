@@ -1,9 +1,7 @@
 ### Hi there <img src="https://github.com/manuvarghese0603/manuvarghese0603/blob/main/Logos/Hi.gif" width="25">, I'm Manu.
 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Database and Big Data 
 - 👀 I’m interested in DS Algo and ML 
-- 👯 I’m looking to collaborate on open source projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me:  manuvarghese0603@gmail.com
 
 ### Connect with me:
